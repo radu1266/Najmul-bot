@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "RIHAN-BOT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100087415821444",
     "100000959749712"
